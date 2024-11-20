@@ -10,4 +10,4 @@ function somar(array){
 }
 
 let s = somar(array);
-console.log("Soma de todos os números do array: " + soma);
+console.log("Soma de todos os números do array: " + s);
